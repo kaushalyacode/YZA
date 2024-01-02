@@ -3,6 +3,7 @@ img.logo {
 }
 body {
     padding-bottom: 20px;
+    
 }
 
 .main-body{
@@ -29,6 +30,7 @@ img.bg-image{
 
 .form-wrapper{
     padding: 20px;
+    margin: 30px;
     background-color: aliceblue;
 }
 
