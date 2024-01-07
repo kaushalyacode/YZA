@@ -1,43 +1,17 @@
 img.logo {
  max-width: 80px;    
 }
+
 body {
-    padding-bottom: 20px;
-    
-}
-
-.main-body{
- margin-top: 10px;
- background-image: url("../img/pexels-pixabay-247431.jpg");
- background-repeat: no-repeat;
- background-size:cover;
- height:80vh;
- filter: blur(5px);
- -webkit-filter: blur(5px);
-}
-
-img.bg-image{   
-        position: absolute;
-        left: 0px;
-        top: 0px;
-        z-index: -1;
-        width: 100%;
-        height: 100%;
-        -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
-        filter: blur(5px); 
-
+    padding-bottom: 20px;    
 }
 
 .form-wrapper{
     padding: 20px;
-    margin: 30px;
+    margin: 25px;
     background-color: aliceblue;
+    background:rgba(0,0,0,0.1);
 }
-
-.form-wrapper form{
-  opacity: 1; /* Set full opacity for form elements */
-}
-
 
 .navbar {
     margin-bottom: 20px;
